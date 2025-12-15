@@ -1,0 +1,21 @@
+places:
+  dock:
+    x: -4.0
+    y: 0.0
+    yaw: 1.57
+  kitchen:
+    x: 4.0
+    y: 0.8
+    yaw: 0.0
+  hallway:
+    x: 2.0
+    y: -2.0
+    yaw: 1.57
+  office:
+    x: 5.0
+    y: 5.0
+    yaw: 3.14
+  meeting:
+    x: 3.0
+    y: 4.0
+    yaw: 1.57
