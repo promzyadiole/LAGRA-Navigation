@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "LAGRA-Navigation: Multimodal Language-Grounded Frameworks for Autonomous Robot Navigation and Interaction"
+type: software
+
+authors:
+  - family-names: "Adiole"
+    given-names: "Promise Emeziem"
+    affiliation: "Université Marie et Louis Pasteur"
+    email: "promzyadiole@gmail.com"
+
+version: "1.0.0"
+date-released: 2025-12-17
+
+repository-code: "https://github.com/promzyadiole/LAGRA-Navigation"
+
+keywords:
+  - robotics
+  - autonomous navigation
+  - language-grounded robotics
+  - multimodal AI
+  - ROS 2
+  - Nav2
+  - human-robot interaction
+
+abstract: >
+  LAGRA-Navigation is a ROS 2–based multimodal framework for autonomous robot
+  navigation and interaction. The system integrates large language models (LLMs)
+  and vision–language models (VLMs) with the ROS 2 Navigation (Nav2) stack to enable
+  robots to interpret open-ended natural language commands, perceive their
+  environment semantically, and execute navigation tasks in simulated environments.
+
+license: "MIT"
+
